@@ -5,4 +5,5 @@ This is a Streamlit web application that demonstrates and compares classic CPU s
 - **Shortest Job First (SJF)**
 - **Shortest Remaining Time First (SRTF)**
 
-The app shows Gantt charts, waiting times, and turnaround times for each algorithm.
+The app shows Gantt charts, waiting times, and turnaround times for each algorithm.  
+https://cpu-scheduling-algorithms-simulation.streamlit.app/
